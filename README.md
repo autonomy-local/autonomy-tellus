@@ -24,3 +24,38 @@
 政府が推奨するMITライセンスで作成されている実装を参考に新たな実装とする。
 
 [ブローカー（パーソナル）「パーソナルデータ連携モジュール」](https://data-society-alliance.org/area-data/module/manual/#personal)
+
+## 各サービス
+
+### portal-service 住民向けポータルサービス
+参考実装には含まれないがデータ連携基盤と各提供サービスに必要な住民アカウントの管理を行う。
+
+### operator-service
+
+### catalog-service
+
+### catalog-update-service
+
+### pxr-block-proxy-service
+
+### notification-service
+
+### book-manage-service
+
+### book-operate-service
+
+### identity-verificate-service
+
+### ctoken-ledger-service
+
+### local-ctoken-service
+
+### certification-authority-service
+
+### certificate-manage-service
+
+### access-control-mange-service
+
+### access-control-service
+
+### binary-manage-service
