@@ -1,3 +1,6 @@
+# ＊注意＊
+2026-10-08 時点で後続プロジェクトへ継承のうえでこちらのプロジェクトはアーカイブとなります。
+https://github.com/autonomy-local/funadansu
 # autonomy-tellus
 🌏地域データ連携基盤
 
